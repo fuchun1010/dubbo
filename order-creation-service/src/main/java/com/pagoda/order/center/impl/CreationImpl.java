@@ -14,6 +14,7 @@ public class CreationImpl implements ICreate {
 
   @Override
   public void createOrder(User user) {
+
     System.out.println(String.format("user name is:[%s]", user.getUsername()));
   }
 

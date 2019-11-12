@@ -1,3 +1,4 @@
 .idea/
 order-creation-service/target
 order-creation-api/target
+logs/
