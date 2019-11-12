@@ -1,1 +1,1 @@
-dubbo dev
+dubbo 2.6.5 dev env
